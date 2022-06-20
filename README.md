@@ -24,7 +24,7 @@ In order to view and use the application you need to download Insomnia onto your
 - [Insomnia Download Link](https://insomnia.rest/download)
 
 View the walkthrough video to see exactly how the application works.
-- [Walkthrough Video Link]()
+- [Walkthrough Video Link](https://drive.google.com/file/d/1IfeTajdMzIRAsSDBk6-IzGpAECVsUdBp/view)
 
 ## License
 
